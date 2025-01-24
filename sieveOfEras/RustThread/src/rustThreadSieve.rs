@@ -1,7 +1,8 @@
 /*
     Neel Bhatia
-    CSCI 440
-    Fall 2024
+    neelb384@gmail.com
+    linkedin.com/in/neel-bhatia-5849021a6
+    github.com/neelbhatia1
 */
 
 use std::sync::{Arc, Mutex};
