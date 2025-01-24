@@ -1,5 +1,5 @@
 # Performance Comparison Summary of Multithreaded Algorithms in C and Rust
-#### NOTE: Full writeup is in ThreadedPerfornaceWriteup.pdf
+#### NOTE: Full writeup is in ThreadedPerformanceWriteup.pdf
 ## Introduction
 
 This project aims to compare the performance of multithreaded implementations in C and Rust, focusing on the efficiency and scalability of threads in both languages. Three different algorithms were used for testing: Mergesort, Matrix Multiplication, and the Sieve of Eratosthenes. The experiment was designed to explore the impact of various factors such as thread count, data size, and cache efficiency on the overall performance of these algorithms in C and Rust. The results are analyzed in terms of execution time and cache hits/misses.
